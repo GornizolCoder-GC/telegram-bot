@@ -1,2 +1,2 @@
 # telegram-bot
-create atelegram-bot using Python
+create a telegram-bot using Python
